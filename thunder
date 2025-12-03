@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Thunder Anime ⚡ - أنمي مترجم بجودة عالية</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="https://i.ibb.co.com/9bY9Y8v/thunder-fav.png" />
+</head>
+<body>
+  <header>
+    <div class="logo">⚡ Thunder Anime</div>
+    <div class="search">
+      <input type="text" placeholder="ابحث عن أنمي..." />
+    </div>
+  </header>
+
+  <div class="container">
+    <h2>أحدث الحلقات</h2>
+    <div class="grid">
+
+      <!-- الحلقة 1 -->
+      <div class="video-card">
+        <a href="player.html?url=https://mega.nz/file/ytB22ICJ#JIVIwKnx375s8__59vWGSivSKRLnW2h2Rkvd8hRw5vo">
+          <img src="https://i.ibb.co.com/0jG4wZJ/onepiece.jpg" alt="One Piece">
+          <div class="title">One Piece - الحلقة 1080</div>
+        </a>
+      </div>
+
+      <!-- الحلقة 2 -->
+      <div class="video-card">
+        <a href="player.html?url=https://mega.nz/file/a1xFhJwA#oJTVqMUda8tuqe5I9ACl4UIxn-AdvZKoZ3fGvWKNUog">
+          <img src="https://i.ibb.co.com/4pKj7sL/jujutsu.jpg" alt="Jujutsu Kaisen">
+          <div class="title">Jujutsu Kaisen - الحلقة 24</div>
+        </a>
+      </div>
+
+      <!-- الحلقة 3 -->
+      <div class="video-card">
+        <a href="player.html?url=https://mega.nz/file/DpRQyAjK#YDyRSI_7hBURtG_GTUzutnU6yWagDZFX6O9iuwOYF8U">
+          <img src="https://i.ibb.co.com/8XvR5vK/attack.jpg" alt="Attack on Titan">
+          <div class="title">Attack on Titan - الحلقة 89</div>
+        </a>
+      </div>
+
+      <!-- أضف هنا أي حلقات جديدة بنفس الطريقة -->
+      
+    </div>
+  </div>
+
+  <footer>© 2025 Thunder Anime ⚡ - جميع الحقوق محفوظة</footer>
+</body>
+</html>
